@@ -26,3 +26,5 @@ print(my_list)
 
 # Finding and print the index of the value 30 in my_list.
 print(my_list.index(30))
+
+https://streak-stats.demolab.com/?user=SimbaCrypto&theme=dark)](https://git.io/streak-stats)
